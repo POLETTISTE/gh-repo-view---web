@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=polettiste&label=Profile%20views&color=0e75b6&style=flat" alt="polettiste" /> </p>
 
-- 🔭 I’m currently working on www.poolandtea.com
+- 🔭 I’m currently working on www.stephanepoletti.com
 
-- 📫 How to reach me **contact@poolandtea.com**
+- 📫 How to reach me **contact@stephanepoletti.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
